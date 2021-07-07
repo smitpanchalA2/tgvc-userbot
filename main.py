@@ -20,7 +20,7 @@ from os import environ
 # import logging
 from pyrogram import Client, idle
 
-API_ID = int(environ["API_ID"])
+API_ID = int(environ["API_ID"]""))
 API_HASH = environ["API_HASH"]
 SESSION_NAME = environ["SESSION_NAME"]
 
